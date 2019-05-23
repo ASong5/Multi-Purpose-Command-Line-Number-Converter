@@ -1,0 +1,29 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Expressions Practice (bit pattern).vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main().c
+c:\users\super\desktop\school\ipc101\personal projects\andrews number converter\expressions practice (bit pattern)\dec_hex.h(20): warning C4013: 'number_hexLetter' undefined; assuming extern returning int
+c:\users\super\desktop\school\ipc101\personal projects\andrews number converter\expressions practice (bit pattern)\input_handler.h(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\super\desktop\school\ipc101\personal projects\andrews number converter\expressions practice (bit pattern)\bin_oct_hex.h(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\super\desktop\school\ipc101\personal projects\andrews number converter\expressions practice (bit pattern)\tax_calculator.h(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\super\desktop\school\ipc101\personal projects\andrews number converter\expressions practice (bit pattern)\change_breakdown.h(47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\super\desktop\school\ipc101\personal projects\andrews number converter\expressions practice (bit pattern)\change_breakdown.h(51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\super\desktop\school\ipc101\personal projects\andrews number converter\expressions practice (bit pattern)\change_breakdown.h(55): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\super\desktop\school\ipc101\personal projects\andrews number converter\expressions practice (bit pattern)\change_breakdown.h(59): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\super\desktop\school\ipc101\personal projects\andrews number converter\expressions practice (bit pattern)\change_breakdown.h(63): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\super\desktop\school\ipc101\personal projects\andrews number converter\expressions practice (bit pattern)\change_breakdown.h(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\super\desktop\school\ipc101\personal projects\andrews number converter\expressions practice (bit pattern)\temp_convert.h(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\super\desktop\school\ipc101\personal projects\andrews number converter\expressions practice (bit pattern)\temp_convert.h(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\super\desktop\school\ipc101\personal projects\andrews number converter\expressions practice (bit pattern)\temp_convert.h(30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\super\desktop\school\ipc101\personal projects\andrews number converter\expressions practice (bit pattern)\main_menu.h(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\super\desktop\school\ipc101\personal projects\andrews number converter\expressions practice (bit pattern)\dec_hex.h(27): warning C4716: 'dec_hex': must return a value
+c:\users\super\desktop\school\ipc101\personal projects\andrews number converter\expressions practice (bit pattern)\dec_octal.h(21): warning C4716: 'dec_octal': must return a value
+c:\users\super\desktop\school\ipc101\personal projects\andrews number converter\expressions practice (bit pattern)\dec_hex.h(50): warning C4716: 'number_hexLetter': must return a value
+c:\users\super\desktop\school\ipc101\personal projects\andrews number converter\expressions practice (bit pattern)\dec_binary.h(22): warning C4716: 'dec_binary': must return a value
+  Expressions Practice (bit pattern).vcxproj -> C:\Users\super\Desktop\School\IPC101\Personal Projects\Andrews Number Converter\Debug\Andrews Number Converter.exe

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Tax Calculator">
+      <UniqueIdentifier>{bfee34b0-cbdd-4b13-9735-e9ba30fb891a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Change Breakdown">
+      <UniqueIdentifier>{5ced9bc1-1827-41e2-9980-84e17434e2d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Decimal to Bin/Oct/Hex">
+      <UniqueIdentifier>{5b011651-9846-4f6f-8680-fde94dfd875c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Decimal to Bin/Oct/Hex\headers">
+      <UniqueIdentifier>{ab08ca70-a06e-4a41-92a4-020336b306d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Temperature Conversion">
+      <UniqueIdentifier>{32d85843-bfcb-4659-a861-b91666aab86c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Main Menu">
+      <UniqueIdentifier>{863e2e62-15b8-4f9b-8ba6-659a414ce9b3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="bin_oct_hex.h">
+      <Filter>Header Files\Decimal to Bin/Oct/Hex</Filter>
+    </ClInclude>
+    <ClInclude Include="dec_octal.h">
+      <Filter>Header Files\Decimal to Bin/Oct/Hex\headers</Filter>
+    </ClInclude>
+    <ClInclude Include="dec_hex.h">
+      <Filter>Header Files\Decimal to Bin/Oct/Hex\headers</Filter>
+    </ClInclude>
+    <ClInclude Include="dec_binary.h">
+      <Filter>Header Files\Decimal to Bin/Oct/Hex\headers</Filter>
+    </ClInclude>
+    <ClInclude Include="main_menu.h">
+      <Filter>Header Files\Main Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="input_handler.h">
+      <Filter>Header Files\Decimal to Bin/Oct/Hex</Filter>
+    </ClInclude>
+    <ClInclude Include="tax_calculator.h">
+      <Filter>Header Files\Tax Calculator</Filter>
+    </ClInclude>
+    <ClInclude Include="change_breakdown.h">
+      <Filter>Header Files\Change Breakdown</Filter>
+    </ClInclude>
+    <ClInclude Include="temp_convert.h">
+      <Filter>Header Files\Temperature Conversion</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main%28%29.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
